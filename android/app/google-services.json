@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91638069526",
+    "project_id": "smart-hire-app-f924a",
+    "storage_bucket": "smart-hire-app-f924a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91638069526:android:976baf6c9614d94d81f837",
+        "android_client_info": {
+          "package_name": "com.example.smart_hire_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15lwmbvbxbcD1qCkhM7vB20JpBmdv4ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
